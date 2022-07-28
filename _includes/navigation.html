@@ -1,0 +1,48 @@
+
+<div id="mobile-nav-links">
+<div class="close-mobile-links-div">
+    <a  href="#" onclick="toggleMenu()" class="close-mobile-links">Close</a>
+</div>
+<ul class="mobile-navigation-links-list">
+    {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+        <li>{{ item.name }}</li>
+    </a>
+    {% endfor %}
+</ul>
+</div>
+  
+<div class="mobile-nav">
+<h2 class="mobile-title"><a href="/index.html">Gracie Xia.</a></h2>
+<a href="#" onclick="toggleMenu()"><img class="hamburger-menu" src="/assets/images/menu.svg"></a>
+</div>
+
+<div class="nav">
+    <h2 class="title" id="mobile-title"><a href="/index.html">Gracie Xia</a></h2>
+
+    <ul class="navigation-links">
+        {% for item in site.data.navigation %}
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+            <li>{{ item.name }}</li>
+        </a>
+        {% endfor %}
+    </ul>
+
+    <div class="social-media">
+        <ul class="social-media-list">
+            {% for item in site.data.contact %}
+            <li>
+                <a href="{{ item.link }}" target="_blank">
+                    <li>{{ item.name }}</li>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="credits">
+        <p>My Internet Corner</p>
+    </div>
+</div>
+
+<script src="/assets/js/menuToggle.js"></script>

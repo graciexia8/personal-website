@@ -1,0 +1,33 @@
+body { background-color: #f2f2f2; padding: 0; margin: 0; }
+
+h1 { font-family: 'Crimson Text'; font-size: 84px; color: #232636; letter-spacing: 2px; animation: fadeIn 3s ease; }
+
+em { font-family: 'Crimson Text'; font-size: 16px; color: #6D7496; letter-spacing: 2px; font-weight: 800; animation: fadeIn 3s ease; }
+
+h2 { font-family: 'Crimson Text'; font-size: 36px; color: #232636; letter-spacing: 2px; animation: fadeIn 3s ease; }
+
+h3 { font-family: 'Crimson Text'; font-size: 18px; color: #232636; letter-spacing: 2px; animation: fadeIn 3s ease; }
+
+h4 { font-family: 'Open Sans'; font-size: 16px; color: #828282; animation: fadeIn 3s ease; }
+
+h5 { font-family: 'Open Sans'; font-size: 12px; color: #232636; font-weight: 800; animation: fadeIn 3s ease; }
+
+p { font-family: 'Open Sans'; font-size: 16px; color: #5D6073; animation: fadeIn 3s ease; }
+
+@keyframes fadeIn { 0% { opacity: 0; }
+  100% { opacity: 1; } }
+
+@keyframes slideIn { 0% { transform: translateX(-900px); }
+  100% { transform: translateX(0); } }
+
+img { width: 400px; }
+
+.baground-element-1 { position: absolute; z-index: -1; width: 700px; height: 1200px; animation: slideIn 2s forwards; }
+
+.baground-element-2 { position: absolute; z-index: -1; width: 700px; height: 1200px; animation: slideIn 2s forwards; float: right; }
+
+.baground-element-2 rect { width: 700px; height: 1200px; fill: #fff; }
+
+.baground-element-1 rect { width: 700px; height: 1200px; fill: #fff; }
+
+/*# sourceMappingURL=styles.css.map */

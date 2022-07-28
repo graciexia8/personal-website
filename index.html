@@ -1,0 +1,19 @@
+---
+layout: list
+title: Blog
+---
+
+<div class="gallery">
+    {% for post in site.posts %}
+        {% if post.path contains 'works' %}
+        <div class="gallery-card">
+            <a href="{{ post.url }}">
+                <div class="gallery-image-container">
+                    <img class="gallery-image" src="{{- post.image | relative_url -}}">
+                </div>
+                <p class="card-title">{{ post.title }}</p>
+            </a>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>

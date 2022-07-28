@@ -1,0 +1,8 @@
+- name: About
+  link: /about.html
+- name: Work
+  link: /index.html
+- name: Travel
+  link: /travel.html
+- name: Diary
+  link: /blog.html

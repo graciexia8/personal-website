@@ -1,0 +1,21 @@
+---
+layout: list
+title: Blog
+---
+
+<div>
+  <ul>
+    {% for post in site.posts %}
+      {% if post.path contains 'diary' %}
+        <li>
+          <a href="{{ post.url }}">
+            <div class="post">
+              <p class="post-title">{{ post.title }}</p>
+              <p class="post-date" >{{ post.date | date: '%B %d, %Y' }}</p>
+            </div>
+          </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
