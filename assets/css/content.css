@@ -1,0 +1,30 @@
+.post-description {
+    position: fixed;
+    width: 250px;
+    padding-left: 700px;
+    margin-left: 10px;
+    padding-top: 45px;
+    pointer-events: none;
+}
+
+.post-content {
+    width: 700px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.post-content img {
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+    -webkit-touch-callout: none;
+    padding-top: 5px;
+}
+
+.post-content p {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.post-content h2 {
+    padding-top: 10px;
+}
