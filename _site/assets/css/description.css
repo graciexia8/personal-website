@@ -1,0 +1,18 @@
+.description-container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.description {
+    padding-left: 30px;
+    padding-right: 30px;
+    align-self: center;
+    font-family: "ubuntu mono";
+    color: #f2f2f2;
+    max-width: 300px;
+}
+
+.description h1, h2, h3, h4, h5, p {
+    padding-bottom: 10px;
+}

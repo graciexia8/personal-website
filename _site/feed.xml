@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-10T20:21:52-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Short First Post</title><link href="http://localhost:4000/2022/05/11/firstPost.html" rel="alternate" type="text/html" title="Short First Post" /><published>2022-05-11T00:00:00-04:00</published><updated>2022-05-11T00:00:00-04:00</updated><id>http://localhost:4000/2022/05/11/firstPost</id><content type="html" xml:base="http://localhost:4000/2022/05/11/firstPost.html">&lt;p&gt;Welcome to my new site!&lt;/p&gt;
+
+&lt;p&gt;I wanted to move off Adobe portfolio and create a longer lasting space where I have full customization of everything.&lt;/p&gt;
+
+&lt;p&gt;This website was made using Jekyll. I remember when I was 18, I tried to learn Jekyll but became too overwhelmed by the documention. This time, it took me only a day to understand! I guess I’ve grown as a programmer :)&lt;/p&gt;
+
+&lt;p&gt;I don’t have much to write for this first post.&lt;/p&gt;
+
+&lt;p&gt;But I am looking forward to crafting out this site into something personal, fun, and memorable.&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome to my new site!</summary></entry><entry><title type="html">Coding Strips</title><link href="http://localhost:4000/2022/05/10/codingstrips.html" rel="alternate" type="text/html" title="Coding Strips" /><published>2022-05-10T00:00:00-04:00</published><updated>2022-05-10T00:00:00-04:00</updated><id>http://localhost:4000/2022/05/10/codingstrips</id><content type="html" xml:base="http://localhost:4000/2022/05/10/codingstrips.html">&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper has been accept to the IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC) 2020. Here’s a link to that 😊 &lt;a href=&quot;https://conf.researchr.org/details/vlhcc2020/research-papers/15/Coding-Strip-A-Pedagogical-Tool-for-Teaching-and-Learning-Programming-Concepts-throu&quot;&gt;Coding Strip: A Pedagogical Tool for Learning and Teaching Programming Concepts through Comics&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;Under &lt;a href=&quot;https://sanghosuh.github.io/&quot;&gt;Sangho Suh&lt;/a&gt; and &lt;a href=&quot;https://edithlaw.ca/index.html&quot;&gt;Dr.Edith Law&lt;/a&gt;, I worked in the Human-Computer Interaction Lab  at the University of Waterloo as an undergraduate researcher on the project, coding strips. Coding strips uses the visual language of comics to convey abstract computer science concepts.&lt;/p&gt;
+
+&lt;p&gt;Sangho’s research is partly based on Data Comics, a research project focusing on creating comics to simplify and understand datasets. They make use of design patterns, which define and categorize data more efficiently to create data visualizations comics.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-comic-generation-process&quot;&gt;The Comic Generation Process&lt;/h2&gt;
+
+&lt;p&gt;To get from comic to code, we go through three rough phases. In essence, our entire process would to be turn code to rough visualizations and then to comics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The three phases can be further broken down into many smaller sub-phases.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We needed to minimize the number of steps needed to reach the final product. Using these steps, Sangho created a brainstorming template for our comic generation. This template allows for rapid generation of computing concepts into comics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rapid-comic-generation&quot;&gt;Rapid Comic Generation&lt;/h2&gt;
+
+&lt;p&gt;My next step was to create as many code-to-comic constructs as possible in order to contrive some sort of pattern to extract later. Computing constructs were divided into 7 different categories.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Below are just some examples of code-to-comic ideas I helped create under each category. Each comic took around 45 minutes to 1 hour from conceptualization to the final outcome. Some results of our rapid comic generation covering topics related to iteration over an array, merge sort, stacks, queues and dictionaries&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/6.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/codingstrip/merge.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/codingstrip/stack.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/codingstrip/Bubble_sort.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/codingstrip/8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/codingstrip/10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;creating-design-patterns-from-comics&quot;&gt;Creating Design Patterns from Comics​​​​​​​&lt;/h2&gt;
+
+&lt;p&gt;After we noticed some repeating patterns, my next task was to observe common themes and reoccurring comic motifs in all 7 categories. These commonalities were a prelude to “Design Patterns”, which were simply solution templates to common problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/11.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;A simple example are visualizations related to sorting. I noticed that quantitative characteristics such as height and size could be used to easily illustrate comparison-based algorithms.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;creating-coding-strip-cards&quot;&gt;Creating Coding Strip Cards​​​​​​​&lt;/h2&gt;
+
+&lt;p&gt;After the design patterns were established, we needed to present them in a readable and friendly manner. Sangho decided to group different patterns based on different methods of comic creation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/12.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Under Sangho’s advisory, I created 3x3 inch explanation cards based on the 5 categories. Each different category was represented by a different color. We also included Category titles on each card. Simple illustrations were also created to help users better understand each pattern.&lt;/p&gt;
+
+&lt;h2 id=&quot;card-designs&quot;&gt;Card Designs&lt;/h2&gt;
+
+&lt;p&gt;Below are some screenshots of some high-fidelity iterations on the design pattern cards.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/13.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/codingstrip/14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conducting-research-studies&quot;&gt;Conducting Research Studies​​​​​​​&lt;/h2&gt;
+
+&lt;p&gt;Studies were conducted to test out the effectiveness of the design patterns and comic development process. Both studies targeted middle to secondary school teachers.
+In each study, the participants consisted of 8 teachers of all educational background. They were asked to form groups of 2-3 to brainstorm, ideate and come up with  different computer science concepts to transform into comics. In addition, they were given the design patterns to aide in the process.&lt;/p&gt;
+
+&lt;p&gt;The first concept would be given by the facilitators, whereas the participants were free to choose any computational construct they wanted. They were asked to utilize the step by step process Sangho had developed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codingstrip/15.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/codingstrip/16.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;observations-and-future-considerations&quot;&gt;Observations and Future Considerations​​​​​​​&lt;/h2&gt;
+&lt;p&gt;Some interesting observations made throughout the study included:&lt;/p&gt;
+
+&lt;p&gt;The topic of inclusion and comic scenarios (avoiding gender biased scenarios)
+○ Teachers who were non native English speakers seemed hesitant to write
+○ Some groups laid out all the available design patterns and chose suitable cards by process of elimination
+○ Many found the number of cards available overwhelming.
+○ Sticky notes were very useful in laying out the different steps in narratives for the comics&lt;/p&gt;
+
+&lt;p&gt;In the future, levels (easy to hard) should be introduced to each set of patterns so that participants are  not overwhelmed by the volume of cards. In addition, the amount of text used to explain each construct should also be condensed. Cards should be printed out at a larger size for better readability.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/comic.png" /><media:content medium="image" url="http://localhost:4000/assets/images/comic.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Raytracer</title><link href="http://localhost:4000/2022/05/10/raytracer.html" rel="alternate" type="text/html" title="Raytracer" /><published>2022-05-10T00:00:00-04:00</published><updated>2022-05-10T00:00:00-04:00</updated><id>http://localhost:4000/2022/05/10/raytracer</id><content type="html" xml:base="http://localhost:4000/2022/05/10/raytracer.html">&lt;p&gt;coming soon&lt;/p&gt;</content><author><name></name></author><summary type="html">coming soon</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/raytracer.png" /><media:content medium="image" url="http://localhost:4000/assets/images/raytracer.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Personal Illustrations</title><link href="http://localhost:4000/2022/05/10/personal-illustrations.html" rel="alternate" type="text/html" title="Personal Illustrations" /><published>2022-05-10T00:00:00-04:00</published><updated>2022-05-10T00:00:00-04:00</updated><id>http://localhost:4000/2022/05/10/personal-illustrations</id><content type="html" xml:base="http://localhost:4000/2022/05/10/personal-illustrations.html">&lt;p&gt;&lt;img src=&quot;/assets/images/illustrations/annecy.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/illustrations/espi.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/illustrations/forest.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/illustrations/shrine.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/illustrations/trees.final.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/illustrations/communiversity.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/illustrations/dtbrampton.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/personalIllustrations.png" /><media:content medium="image" url="http://localhost:4000/assets/images/personalIllustrations.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Novel Input Device</title><link href="http://localhost:4000/2022/05/10/novel-input-device.html" rel="alternate" type="text/html" title="Novel Input Device" /><published>2022-05-10T00:00:00-04:00</published><updated>2022-05-10T00:00:00-04:00</updated><id>http://localhost:4000/2022/05/10/novel-input-device</id><content type="html" xml:base="http://localhost:4000/2022/05/10/novel-input-device.html">&lt;p&gt;&lt;img src=&quot;/assets/images/fydp/prototype.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/fydp/arduino.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/fydp/gesture.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/fydp/diagram.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/fydp/demo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/fydp.png" /><media:content medium="image" url="http://localhost:4000/assets/images/fydp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">British Columbia</title><link href="http://localhost:4000/2021/04/01/bc.html" rel="alternate" type="text/html" title="British Columbia" /><published>2021-04-01T00:00:00-04:00</published><updated>2021-04-01T00:00:00-04:00</updated><id>http://localhost:4000/2021/04/01/bc</id><content type="html" xml:base="http://localhost:4000/2021/04/01/bc.html">&lt;p&gt;&lt;img src=&quot;/assets/images/travel/bc/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Somewhere over the rainbow&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;a family affair&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Gracie in the Squamish River&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/4.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Overlooking the Chief&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/5.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Bouldering exercises in Squamish&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Early morning drives in Garibaldi&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/7.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Lounging in the city&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Suburban Enchantment&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/9.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;In the open sea&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Colourful lamenting&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Dana-Kaye and Gracie seafront edition&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;My calves are dying, but at least the view is pretty&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Green Leaf Cafe special&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Elfin Lakes Hike&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Twilight in Vancouver&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/bc/16.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Susan Eyes and Community Gardens&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Somewhere over the rainbow a family affair Gracie in the Squamish River Overlooking the Chief Bouldering exercises in Squamish Early morning drives in Garibaldi Lounging in the city Suburban Enchantment In the open sea Colourful lamenting Dana-Kaye and Gracie seafront edition My calves are dying, but at least the view is pretty Green Leaf Cafe special Elfin Lakes Hike Twilight in Vancouver Susan Eyes and Community Gardens</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/travel/bc/8.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/travel/bc/8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Montreal</title><link href="http://localhost:4000/2021/01/01/quebec.html" rel="alternate" type="text/html" title="Montreal" /><published>2021-01-01T00:00:00-05:00</published><updated>2021-01-01T00:00:00-05:00</updated><id>http://localhost:4000/2021/01/01/quebec</id><content type="html" xml:base="http://localhost:4000/2021/01/01/quebec.html">&lt;p&gt;&lt;img src=&quot;/assets/images/travel/quebec/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Pasta making!&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Living Situation Pt II&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;“Everything will be alright if we just keep dancing like we’re twenty-twioooo!”&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/4.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Pandemic Essentials&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/5.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Asian-Canadian Super Bowl view party&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;“The oops, I’m no longer a child and am too heavy for the Toboggan”&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/7.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Toques et Les cafés&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Quebec City&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/9.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Strolling through Vieux-Port&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Zoom Days&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Duluth, Montreal&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Neighborhood Croquette Shop&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Bagels from Mile-End&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Colorful Montreal Quarters&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/quebec/15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Turkish Lamps&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Pasta making! Living Situation Pt II “Everything will be alright if we just keep dancing like we’re twenty-twioooo!” Pandemic Essentials Asian-Canadian Super Bowl view party “The oops, I’m no longer a child and am too heavy for the Toboggan” Toques et Les cafés Quebec City Strolling through Vieux-Port Zoom Days Duluth, Montreal Neighborhood Croquette Shop Bagels from Mile-End Colorful Montreal Quarters Turkish Lamps</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/travel/quebec/8.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/travel/quebec/8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Thailand</title><link href="http://localhost:4000/2019/12/01/thailand.html" rel="alternate" type="text/html" title="Thailand" /><published>2019-12-01T00:00:00-05:00</published><updated>2019-12-01T00:00:00-05:00</updated><id>http://localhost:4000/2019/12/01/thailand</id><content type="html" xml:base="http://localhost:4000/2019/12/01/thailand.html">&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thailand was an accumulation of all the tips, tricks and travel advice I had acquired over the course of 2019 and I was ready to put forth my knowledge to the test. I went into this vacation alone with no prior plans or specific destinations in mind.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Traveling alone was a magnificently rewarding experience. I started off my journey in the southern part of Thailand, in Phuket Island.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Phuket’s tourism infrastructure is very developed so I had virtually no issue getting around. Travel was done mainly by Grab, buses, and on the back of motorbikes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, I had the chance to visit Phuket’s beaches and islands, however, I found myself enjoying the town itself a lot more. There were certainly areas where tourists filled the streets, but off the beaten path Phuket was had a nice charm to it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I chose to stay in the Vitamin Sea Hostel near Phuket’s old town. Vitamin Sea boasted a wide selection of cafe drinks, quirky furniture pieces and unfiltered golden hour light topped off with the fun-loving people who owned the hostel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I remember one night, the owners had invited all of us at the hostel out to watch performances at a local bar. It just so happened that, that night, all the guests who tagged along were girls, which was really refreshing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Staying there allowed me to form some really meaningful connections with all the guests there as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We spent nights and nights just discussing our lives, love, our futures even though I’d only befriended them a few days prior. It was a brief but magical friendship.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The hostel owners Tian and May also drove us to the different cafes they often visited. A lot of them were hidden away from the main streets of Phuket so we were able to get a taste of what locals enjoyed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Before we all parted ways, May and Tian actually cooked us lunch to say goodbye. It was a touching gesture. Definitely one of the highlights of my time in Thailand.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not long after, I hopped on a bus headed towards Chiang Mai. (Buses are a fraction of the cost of Taxis, so if you can, ride those!)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chiang Mai is located in Thailand’s north. While Phuket was lively, bustling, and a bit noisy, Chiang Mai offered a tranquil contrast.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The weather in Chiang Mai was closer to Canadian June. The crisp air and chirping of birds only added to atmosphere of serenity there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It had just so happened that Chiang Mai was hosting its design week while I was there. Design week was an outdoor exhibition in the old town that showcased the works of Thai and Asian designers. Going around and exploring their pieces allowed me to explore the old town with more depth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first hostel I stayed at didn’t actually have any people so I spent my first few days in Chiang Mai visiting various cafes and just catching up on unfinished work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/16.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I dined in My Secret Cafe in Town and Passion Project Cafe.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/17.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The baristas and chefs there really knew how to cater to the North American palate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/18.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, no trip near the mountains is complete without a hike. I signed myself up for a walk down the Kew Mae Pan towards Doi Inthanon. Fun fact, my tour guide for the hike used to work as a bartender and once served Bradley Cooper drinks when they were filming the Hangover.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/19.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had enjoyed the city so much, I actually extended my stay. I switched to another hostel. There I convinced someone to let me on the back of their motorbike. We went on an adventure into the Doi Suthep mountains due to its proximity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/20.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My new hostel had a lot of people closer to my age so it was easier to make friends as well. We rode up to Doi Suthep and enjoyed a sunset.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/21.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chiang Mai’s old town valued artisan-ship. Around every corner, I found specialty stores with handcrafted artifacts, vintage fashion, jewelry stores, and cafes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/22.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All over Thailand, there were these massive markets sprawling with street food, crafts, and fashion. Chiang Mai was no exception. You could probably spend an entire night walking down the night markets there and still have more left to see.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/travel/thailand/23.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking back this is probably my most memorable travel. I didn’t feel alone at all. I met so many interesting people along the way, this was a true vacation.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/travel/thailand/5.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/travel/thailand/5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tanglin Reading Express</title><link href="http://localhost:4000/2019/10/20/tanglin-school-express.html" rel="alternate" type="text/html" title="Tanglin Reading Express" /><published>2019-10-20T00:00:00-04:00</published><updated>2019-10-20T00:00:00-04:00</updated><id>http://localhost:4000/2019/10/20/tanglin-school-express</id><content type="html" xml:base="http://localhost:4000/2019/10/20/tanglin-school-express.html">&lt;p&gt;&lt;img src=&quot;/assets/images/tanglin/subway.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My time as a UX/Brand designer in Singapore’s Edenspiekerman exposed me to various creative fields that I would otherwise have given no second thought to. At the agency, I had the pleasure of designing a subway map system that acted a reading list for elementary school students at the Tanglin School. Through this project, I learned a bit more about map and communication design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tanglin/map.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The reading list is based off a subway style design emphasizing the silhouette of Singapore. Each station represents a particular book to be read, while each subway line represents a particular grouping of books (often belonging to the same genre). Intersection of stations implies that the book belongs to more than one group. Each Group is labeled at the head of its subway line.&lt;/p&gt;
+
+&lt;p&gt;In addition, one of the students at the school designed all the logos that correspond to a certain subway line. I digitalized these logos and added them into the map! The geography of the subway lines themselves are loosely based off the actual construction of the Singaporean subway system itself. licking on a particular station brings up the title, description and genre of each book.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tanglin/focus.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;clicking into a particular station brings up the book description&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Below is the final result printed out in one of the school classrooms.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tanglin/classroom.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/tanglinSchool.png" /><media:content medium="image" url="http://localhost:4000/assets/images/tanglinSchool.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Singapore</title><link href="http://localhost:4000/2019/09/01/singapore.html" rel="alternate" type="text/html" title="Singapore" /><published>2019-09-01T00:00:00-04:00</published><updated>2019-09-01T00:00:00-04:00</updated><id>http://localhost:4000/2019/09/01/singapore</id><content type="html" xml:base="http://localhost:4000/2019/09/01/singapore.html">&lt;p&gt;&lt;img src=&quot;/assets/images/travel/singapore/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Wandering aimlessly in Emerald Hill Street&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;A mosaic of lights in Arab street.&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Strolling through Katong&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/4.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;the Evening Markets of Singapore’s Arab quarter&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/5.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Local Fauna&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Sunrise in the Marina&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/7.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;the Heart of Singaporean Mail.&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;a Hungry Macaque.&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/9.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Shophouses and their Behinds.&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Chinatown’s Golden Hour.&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Goodbye Dinner with the Edenspiekermann gang&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Mid-afternoon Fish Ball Noodles.&lt;/em&gt;
+&lt;img src=&quot;/assets/images/travel/singapore/13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Happy Hour in Haji&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Wandering aimlessly in Emerald Hill Street A mosaic of lights in Arab street. Strolling through Katong the Evening Markets of Singapore’s Arab quarter Local Fauna Sunrise in the Marina the Heart of Singaporean Mail. a Hungry Macaque. Shophouses and their Behinds. Chinatown’s Golden Hour. Goodbye Dinner with the Edenspiekermann gang Mid-afternoon Fish Ball Noodles. Happy Hour in Haji</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/travel/singapore/2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/travel/singapore/2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
