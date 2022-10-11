@@ -4,5 +4,5 @@
   link: /index.html
 - name: Travel
   link: /travel.html
-- name: Diary
-  link: /blog.html
+# - name: Diary
+#   link: /blog.html
