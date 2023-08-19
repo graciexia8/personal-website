@@ -20,6 +20,9 @@ In 2022, I became involved in the NYC urban gardening community. Through this ex
 ![](/assets/images/paradisecommunitygardenny/garden_business_card.png)
 *Garden business cards (front & back)*
 
+![](/assets/images/paradisecommunitygardenny/garden.gif)
+*The community's garden's instagram that I lead the revival efforts of*
+
 ![](/assets/images/paradisecommunitygardenny/tomates_from_plot.png)
 *Tomatoes grown in our land plot*
 
