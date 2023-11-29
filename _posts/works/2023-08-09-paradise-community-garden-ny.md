@@ -26,6 +26,9 @@ In 2022, I became involved in the NYC urban gardening community. Through this ex
 ![](/assets/images/paradisecommunitygardenny/card_irl_back.jpg)
 *Garden Business card (back) in real life!
 
+![](/assets/images/paradisecommunitygardenny/end_of_year_celebration.jpg)
+*Our End of Year Volunteer Appreciation Event*
+
 ![](/assets/images/paradisecommunitygardenny/garden.gif)
 *The community's garden's instagram that I lead the revival efforts of*
 
