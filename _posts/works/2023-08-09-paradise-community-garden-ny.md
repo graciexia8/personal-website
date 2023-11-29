@@ -7,7 +7,7 @@ date: "2019-10-20"
 image: /assets/images/paradisecommunitygardenny/Garden_business_card_display_img.png
 ---
 
-In 2022, I became involved in the NYC urban gardening community. Through this experience I became a NYC Master Composter and now I help run logistics for Paradise Community Garden NY in Jamaica, Queens. My day-to-day involvement includes graphic design (e.g. logo design, business card), running the garden social media, helping out with our compost program and corresponding with local schools/organizations to develop community events and partnerships with the garden. I also co-own a garden bed and am learning to grow my own vegetables.
+In 2022, I became involved in the NYC urban gardening community. Through this experience I became a NYC Master Composter and now I help run logistics for Paradise Community Garden NY in Jamaica, Queens. My day-to-day involvement includes graphic design (e.g. logo design, business card), running the garden social media, helping out with our compost program, grant writing, and corresponding with local schools/organizations to develop community events and partnerships with the garden. I also co-own a garden bed and am learning to grow my own vegetables.
 
 [Checkout the Garden here](https://www.instagram.com/paradisecommunitygarden/)
 
